@@ -1,0 +1,99 @@
+.body{
+    height: 1500px;
+    width: 100%;
+}
+.head{
+    height: 150px;
+    width: 100%;
+   
+    
+}
+.main{
+    height: 690px;
+    width: 100%;
+
+    position: relative;
+    margin-bottom: 0px;
+} 
+.head h1{
+    font-size: 4em;
+    margin-left: 530px;
+}
+.head p{
+    margin-left: 530px;
+    margin-top: -45px;
+    
+}
+.pink{
+    height: 350px;
+    width: 100%;
+    background-color: rgb(209, 162, 170);
+    margin-top: 200px;
+}
+.footer{
+    margin-top: -250px;
+    height: 300px;
+    width: 100%;
+    background-color: rgb(38, 34, 34);
+}
+.picright{
+    height: 547px;
+    width: 335px;
+    position: absolute;
+    margin-left: 910px;
+    margin-top: -200px;
+}
+.picleft{
+    height: 547px;
+    width: 335px;
+    margin-top: -200px;
+    position: absolute;
+    margin-left: 530px;
+}
+.word{
+    height: 649px;
+    width: 335px;
+    margin-top: -200px;
+    position: absolute;
+    margin-left: 105px;
+    background-color: white;
+}
+.pright{
+    height: 345px;
+    width: 338px;
+}
+.pleft{
+    height: 345px;
+    width: 338px;
+}
+.flex{
+    height:300px;
+    width: 310px;
+    
+    margin: 10px 10px 10px 10px;
+}
+.flex img{
+    height: 75px;
+    width: 85px;
+}
+.flex a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    position: absolute;
+   border-bottom: 3px solid pink;
+   padding-bottom: 3px;
+   margin-bottom: 0px;
+}
+.flex a:hover{
+    color: pink;
+}
+.footer p{
+    text-align: center;
+    color: white;
+    padding-top: 55px;
+}
+footer.{
+    margin-top: 0px;
+}
+
